@@ -1,4 +1,4 @@
-# 💫 Saurabh Kumar:
+# 💫 Saurabh Kumar
 🛠️ Working on MERN stack web apps.<br>🤝 Collaborating on tech and startup projects.<br>🆘 Need help with backend scaling and deployments.<br>🌱 Learning system design and Advance NodeJs.<br>💬 Ask me about APIs, MERN stack, and cloud.<br>⚡ Fun fact:  I treat Git commits like reps at the gym — consistent and heavy!<br><br>
 
 
