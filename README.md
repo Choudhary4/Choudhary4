@@ -1,5 +1,9 @@
 #  Saurabh Kumar
-🛠️ Full-stack developer.<br>🆘 Need help with backend scaling and deployments.<br>🌱 Learning system design and Advance NodeJs.<br>💬 Ask me about APIs, MERN stack, and cloud.<br>⚡ Fun fact:  I treat Git commits like reps at the gym — consistent and heavy<br><br>
+Full-stack developer (and part-time bug creator).<br>
+I deploy code like I lift weights — with confidence and regret.<br>
+Currently learning system design and how not to break production.<br>
+Ask me about APIs, backend scaling, or how to survive merge conflicts.<br>
+Fun fact: My Git commits have more reps than my biceps.<br><br>
 
 
 ## 🌐 Socials:
